@@ -1,0 +1,110 @@
+/*
+Theme Name: Avada
+Description: The #1 selling theme of all time that allows you to build virtually any design style.
+Author: ThemeFusion
+Theme URI: http://avada.theme-fusion.com/
+Author URI: http://themeforest.net/user/ThemeFusion
+Version: 5.0.2
+License: Themeforest Split Licence
+License URI: -
+Text Domain: Avada
+*/
+
+/* -- Home styles --*/
+.home #main, .page-id-926 #main{
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+.home #main .fusion-builder-row, .page-id-926 #main .fusion-builder-row, .page-id-944 #main .fusion-builder-row{
+	max-width: 100%;
+}
+.home .width-100 .nonhundred-percent-fullwidth, .page-id-926 .width-100 .nonhundred-percent-fullwidth, .page-id-944 .width-100 .nonhundred-percent-fullwidth{
+	padding: 0 !important;
+}
+.home .flexslider .slides, .page-id-926 .flexslider .slides, .page-id-944 .flexslider .slides{
+	max-height: 736px;
+}
+
+/*-- Nomenclature Sections --*/
+
+.BarceloMethod--Download, .BarceloMethod--MoreServices{
+	text-align: center;
+}
+.BarceloMethod--Download--Btn{
+	background: rgb(59, 175, 191) none repeat scroll 0% 0%;
+	color: rgb(255, 255, 255);
+	border: 0px none;
+	padding: 28px;
+	line-height: 0;
+	max-width: 300px;
+	width: 85%;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin-top: 80px;
+	margin-bottom: 30px;
+	font-size: 19px;
+}
+.BarceloMethod--MoreServices--Btn{
+	background: rgb(59, 175, 191) none repeat scroll 0% 0%;
+	color: rgb(255, 255, 255);
+	border: 0px none;
+	padding: 28px;
+	line-height: 0;
+	max-width: 300px;
+	width: 85%;
+	font-weight: bold;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	margin-top: 80px;
+	margin-bottom: 30px;
+	font-size: 19px;
+}
+.BarceloMethod--Aboutus{
+	background-color: #fff;
+}
+.BarceloMethod--OurServicesPage--Description{
+	text-align: justify;
+	color: rgb(51, 51, 51);
+	font-size: 19px;
+}
+/*-- Plugins Styles --*/
+/*-- Testimonial PLugin --*/
+#text-slider article{
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	margin-top: 30px;
+	font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+}
+#text-slider-controls{
+	float: none;
+	text-align: center;
+}
+#text-slider span{
+	margin-top: -35px;
+	margin-bottom: -42px;
+}
+.home #text-slider-controls .nav-color{
+	color: #fff;
+	font-size: 34px;
+	position: relative;
+	bottom: 5px;
+}
+
+/*-- Courses Styles --*/
+.CoursesBg{
+	background: rgb(0, 0, 0) none repeat scroll 0% 0%;
+	margin-bottom: 60px;
+}
+/*-- Generic's Classes --*/
+
+.inline{
+	display: inline-block;
+}
+.padding35{
+	padding-top: 35px;
+}
+.CenterAlign{
+	text-align: center;
+}
