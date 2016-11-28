@@ -1,7 +1,6 @@
 jQuery( document ).ready( function() {
 
 	'use strict';
-
 	var iframeLoaded;
 
 	// Position dropdown menu correctly

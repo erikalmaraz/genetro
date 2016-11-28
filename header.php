@@ -46,11 +46,13 @@ if ( ! defined( 'ABSPATH' ) ) {
 	<?php echo Avada()->settings->get( 'google_analytics' ); ?>
 
 	<?php echo Avada()->settings->get( 'space_head' ); ?>
+	<script type="text/javascript" src="/ixtinWordpress/wp-includes/js/ixtin.js"></script>
 	<script type="text/javascript">
 		//
 		jQuery('.home.post-type-archive-tc_events .fusion-page-title-bar-none').addClass('CoursesBg');
 		console.log('ss');
 	</script>
+
 </head>
 <?php
 $wrapper_class = '';
