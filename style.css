@@ -30,11 +30,15 @@ Text Domain: Avada
 .BarceloMethod--Download, .BarceloMethod--MoreServices{
 	text-align: center;
 }
+.BarceloMethod--Download{
+	margin-bottom: 55px;
+	margin-top: 60px;
+}
 .BarceloMethod--Download--Btn{
 	background: rgb(59, 175, 191) none repeat scroll 0% 0%;
 	color: rgb(255, 255, 255);
 	border: 0px none;
-	padding: 28px;
+	padding: 20px 43px;
 	line-height: 0;
 	max-width: 300px;
 	width: 85%;
@@ -42,7 +46,7 @@ Text Domain: Avada
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	margin-top: 80px;
-	margin-bottom: 30px;
+	margin-bottom: 70px;
 	font-size: 19px;
 }
 .BarceloMethod--MoreServices--Btn{
