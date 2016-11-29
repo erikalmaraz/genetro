@@ -189,3 +189,20 @@ Text Domain: Avada
 	font-weight: bold;
 	cursor: pointer;
 }
+.btnPackage{
+	background: #3bafbf none repeat scroll 0% 0%;
+	border: 0px none;
+	color: #fff;
+	padding: 14px 14px;
+	line-height: 0;
+	border-radius: 4px;
+}
+
+.btnTolightbox{
+	background: transparent;
+	border: 0;
+	text-decoration: underline;
+}
+.PriceAtPackage{
+	text-align: center;
+}
