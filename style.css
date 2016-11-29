@@ -34,6 +34,9 @@ Text Domain: Avada
 	margin-bottom: 55px;
 	margin-top: 60px;
 }
+.BarceloMethod--Download--Btn:hover{
+	color: #fff !important;
+}
 .BarceloMethod--Download--Btn{
 	background: rgb(59, 175, 191) none repeat scroll 0% 0%;
 	color: rgb(255, 255, 255);
