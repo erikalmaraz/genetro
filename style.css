@@ -218,3 +218,6 @@ Text Domain: Avada
 .fusion-footer.fusion-footer-parallax .fusion-column.col-lg-4.col-md-4.col-sm-4 .fusion-footer-widget-column.widget.widget_text:nth-child(1), #social_links-widget-2, #text-4{
 	display: none;
 }
+.fusion-footer-parallax{
+	position: relative !important; 
+}
